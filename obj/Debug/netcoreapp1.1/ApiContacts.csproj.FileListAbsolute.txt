@@ -1,0 +1,8 @@
+C:\Users\leova\Documents\Projetos\ApiContacts\bin\Debug\netcoreapp1.1\ApiContacts.deps.json
+C:\Users\leova\Documents\Projetos\ApiContacts\bin\Debug\netcoreapp1.1\ApiContacts.runtimeconfig.json
+C:\Users\leova\Documents\Projetos\ApiContacts\bin\Debug\netcoreapp1.1\ApiContacts.runtimeconfig.dev.json
+C:\Users\leova\Documents\Projetos\ApiContacts\bin\Debug\netcoreapp1.1\ApiContacts.dll
+C:\Users\leova\Documents\Projetos\ApiContacts\bin\Debug\netcoreapp1.1\ApiContacts.pdb
+C:\Users\leova\Documents\Projetos\ApiContacts\obj\Debug\netcoreapp1.1\ApiContacts.AssemblyInfo.cs
+C:\Users\leova\Documents\Projetos\ApiContacts\obj\Debug\netcoreapp1.1\ApiContacts.dll
+C:\Users\leova\Documents\Projetos\ApiContacts\obj\Debug\netcoreapp1.1\ApiContacts.pdb
